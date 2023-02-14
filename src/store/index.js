@@ -1,4 +1,4 @@
-const redux = require('redux');
+import redux from 'redux';
 
 const initialState = {counter: 0, showCounter: true};
 
