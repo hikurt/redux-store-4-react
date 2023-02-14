@@ -1,0 +1,26 @@
+{
+  "name": "aonipxjqg.github",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/dom": ">=7.21.4",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "11.2.7",
+    "@testing-library/user-event": "12.8.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.1",
+    "typescript": "^3.2.1 || ^4",
+    "web-vitals": "1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
